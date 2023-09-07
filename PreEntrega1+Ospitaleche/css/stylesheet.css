@@ -1,0 +1,32 @@
+.header {
+    background-color: #9400FF;
+    color: #27005D;
+    padding: 20px;
+    text-align: left;
+    height: 100%;
+    margin-right: 20px;
+}
+
+.background {
+    background-color: #E4F1FF;
+
+}
+
+.textBody {
+    color: #5882b6;
+}
+
+.cartButton {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.container {
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle;
+}
